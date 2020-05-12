@@ -1,2 +1,2 @@
 # SentimentNet
-Cross language sentiment analysis using neural nets
+Cross language sentiment analysis using convolutional neural nets
